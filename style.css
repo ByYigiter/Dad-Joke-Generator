@@ -26,7 +26,7 @@ body{
     height: auto;
     text-align: center;
     margin: 0 auto;
-    color: rgb(33, 67, 140);
+    color: rgb(23, 42, 84);
 }
 
 .heading{
@@ -38,7 +38,7 @@ body{
 
 .joke{
     margin: 40px;
-    font-size: 1rem;
+    font-size: 1.6rem;
 }
 .btn{
     margin: 20px;
